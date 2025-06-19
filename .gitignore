@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Yarn Plug'n'Play
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/**
